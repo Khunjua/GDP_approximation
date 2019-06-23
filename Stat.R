@@ -1,4 +1,5 @@
 library(ggplot2)
+library(tidyverse)
 
 GDP_R7 <- read.csv("~/Documents/GE/2019/AirProhibition/Statistic/GDP_R7.csv", sep=";")
 
